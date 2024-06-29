@@ -1,0 +1,17 @@
+.height-100 {
+  height: 100%;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.scrollable {
+  padding-bottom: 16px;
+  overflow-y: scroll;
+}
+
+.select-form {
+  margin-top: 8px !important;
+  margin-bottom: 8px !important;
+}
